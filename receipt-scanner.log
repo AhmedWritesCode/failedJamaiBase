@@ -1,0 +1,24 @@
+2025-03-29T06:47:44.345Z [INFO]: Validating environment...
+2025-03-29T06:47:45.161Z [ERROR]: Environment validation failed: Request failed with status code 404
+2025-03-29T06:47:45.162Z [ERROR]: Batch processing failed: Request failed with status code 404
+2025-03-29T06:47:45.162Z [INFO]: 
+BATCH PROCESSING SUMMARY:
+2025-03-29T06:47:45.162Z [INFO]: ========================================
+2025-03-29T06:47:45.163Z [INFO]: Successfully processed 0 of 3 files
+2025-03-29T06:47:45.163Z [INFO]: ========================================
+2025-03-29T06:48:53.209Z [INFO]: Validating environment...
+2025-03-29T06:48:53.565Z [ERROR]: Environment validation failed: Request failed with status code 404
+2025-03-29T06:48:53.566Z [ERROR]: Batch processing failed: Request failed with status code 404
+2025-03-29T06:48:53.567Z [INFO]: 
+BATCH PROCESSING SUMMARY:
+2025-03-29T06:48:53.568Z [INFO]: ========================================
+2025-03-29T06:48:53.569Z [INFO]: Successfully processed 0 of 3 files
+2025-03-29T06:48:53.570Z [INFO]: ========================================
+2025-03-29T06:50:30.116Z [INFO]: Validating environment...
+2025-03-29T06:50:30.121Z [ERROR]: Environment validation failed: Cannot read properties of undefined (reading 'Authorization')
+2025-03-29T06:50:30.122Z [ERROR]: Batch processing failed: Cannot read properties of undefined (reading 'Authorization')
+2025-03-29T06:50:30.122Z [INFO]: 
+BATCH PROCESSING SUMMARY:
+2025-03-29T06:50:30.123Z [INFO]: ========================================
+2025-03-29T06:50:30.123Z [INFO]: Successfully processed 0 of 3 files
+2025-03-29T06:50:30.124Z [INFO]: ========================================
